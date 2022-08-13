@@ -1,0 +1,29 @@
+LOOPS:
+-WHILE LOOP
+-DO WHILE LOOP
+-FOR LOOP
+-FOR EACH LOOP
+
+WHILE LOOP:
+-PRE LOOP MEANS IT WILL CHECK CONDITION FIRST while
+-while(condition){
+        statements;
+        increment/decrement;
+}
+
+DO WHILE LOOP:
+-POST LOOP MEANS IT WILL EXECUTE THE CODE FIRST THEN IT WILL CHECK THE CONDITIONS
+--THIS LOOP EXECUTE THE CODE ATLEAST ONE TIME
+-do{
+    statements;
+    increment/decrement;
+}while(condition);
+
+FOR LOOP:
+-for(initialisation;conditons;increment/decrement){
+        statements
+}
+
+FOR EACH LOOP:
+-FOR(DATA TYPE VARIABLE: ELEMENTS){
+}

@@ -1,0 +1,23 @@
+CONDITIONAL STATEMENTS
+-if else
+-else if
+-switch
+                    check           check           check
+if(condition){      true            not true        not true
+}
+else if(condito){    [X]             TRUE           not true
+}
+else{                [X]              [X]              true
+}
+
+switch:
+-switch(variable){
+    case 1:
+            statements;
+            break;              BREAK--->KEYWORD
+     case 2:
+           statements;
+            break;
+      default:
+            statements;
+}

@@ -1,4 +1,33 @@
-sdfihiosfdklf
-sdfhlsfdl
-sdfhsoidflk
-sddffiosdf
+--JRE=JVM+LIBRARIES
+--JDK=JRE+COMPILER
+
+JVM:(java virtual machine)
+-Loads the code
+-Verifies code
+-Execute code
+-Provide runtime environment				Just provides Environment
+-physically does not exist
+-Platform indepedent
+
+JRE:(java runtime environment)
+-Implementation of JVM
+-For running java code JRE is required
+-JRE has libraries that JVM uses them at runtime		TO RUN CODE
+-physically exist
+-Platform dependent
+
+JDK:(java development tools)
+-Full featured Software development kit			TO RUN CODE+PROGRAMMING
+-Contains JRE and Development tools
+
+
+HOW  CODE IS RUNNING??
+-COMPLATION
+-EXECUTION
+
+(1)COMPLATION:
+-SOURCE CODE-->COMPILER-->BYTE CODE
+                [JDK]
+(2)EXECUTION:
+-BYTE CODE CAN RUN ANY OPREATING SYSTEM
+-BYTE CODE-->[JVM]-->NATIVE CODE

@@ -1,0 +1,4 @@
+FOR EXAMPLE
+INT A;
+INT A=23;
+
