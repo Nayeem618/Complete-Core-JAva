@@ -1,0 +1,32 @@
+FUNCTION:
+
+--i/p-->{block of code}----->o/p
+        [operation perform]
+
+METHODS:
+--i/p-->{block of code}----->o/p
+        [operation perform]
+
+-FUNCTION'S syntax:
+return type functionName(parametes){
+    operations;
+}
+
+-for example
+public static int add(int a, int b){        //'PUBLIC' AND 'STATIC' IS A KEYWORD
+    int c=a+b;
+}
+
+-WHAT HAPPEN IN MEMORY??
+-function are stored in memory-->stack formation(means one by one)
+-fuctions variable are stored in stack frame (stored same things in stack termed as stack frame)
+
+-DIFFRENCE BETWEEN FUNCTIONS AND METHOD??
+-functions are directly call
+--and methods are call through the class's object
+
+
+//practice questions
+1]make a fuctions to add two number and retrun the sum
+2]make a functions to multiply two number and return the product
+3]find the factorial of a number
