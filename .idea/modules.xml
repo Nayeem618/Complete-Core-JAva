@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array_basic.iml" filepath="$PROJECT_DIR$/Array/Array_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Basic.iml" filepath="$PROJECT_DIR$/Basic/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Basic Array.iml" filepath="$PROJECT_DIR$/Array/Basic Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Basic_Array.iml" filepath="$PROJECT_DIR$/Array/Basic_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Core java complete.iml" filepath="$PROJECT_DIR$/.idea/Core java complete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core_java_project/Core_java_project.iml" filepath="$PROJECT_DIR$/Core_java_project/Core_java_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Error_and_Exception/Error_and_Exception.iml" filepath="$PROJECT_DIR$/Error_and_Exception/Error_and_Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+    </modules>
+  </component>
+</project>
